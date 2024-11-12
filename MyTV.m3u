@@ -39,6 +39,7 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
 #EXTINF:-1 tvg-id="DuniaSinema" tvg-name="DuniaSinema" group-title="Default" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DuniaSinema.png",DuniaSinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 #EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="TvAlhijrah" group-title="Default" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/TvAlhijrah.png",TvAlhijrah
 https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 #EXTINF:-1 tvg-id="Astro Ceria" group-title="Default" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/7/74/Astro_Ceria_2023.png/revision/latest/scale-to-width-down/985?cb=20240223020917",Astro Ceria
